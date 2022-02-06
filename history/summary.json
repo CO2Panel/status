@@ -4,19 +4,19 @@
     "url": "https://co2panel.shop/",
     "icon": "https://favicons.githubusercontent.com/co2panel.shop",
     "slug": "co-2-panel-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 135,
-    "timeWeek": 262,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 266,
+    "timeDay": 188,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-02-06": 0
+      "2022-02-06": 5
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-06": 411,
+      "2022-02-06": 416,
       "2022-02-05": 1440,
       "2022-02-04": 211
     }
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-06": 411,
+      "2022-02-06": 416,
       "2022-02-05": 1440,
       "2022-02-04": 211
     }
