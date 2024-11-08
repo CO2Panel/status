@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/co2panel.shop.ico",
     "slug": "co-2-panel-web",
     "status": "down",
-    "uptime": "10.47%",
+    "uptime": "10.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2024-11-07": 58,
+      "2024-11-08": 57,
+      "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
@@ -339,8 +340,7 @@
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
-      "2023-11-10": 1440,
-      "2023-11-09": 1440
+      "2023-11-10": 1440
     }
   },
   {
@@ -349,16 +349,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.co2panel.com.ico",
     "slug": "co-2-panel-control",
     "status": "up",
-    "uptime": "1.56%",
+    "uptime": "1.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.59%",
-    "uptimeYear": "4.02%",
-    "time": 539,
-    "timeDay": 420,
-    "timeWeek": 445,
-    "timeMonth": 539,
-    "timeYear": 539,
+    "uptimeMonth": "52.88%",
+    "uptimeYear": "4.29%",
+    "time": 533,
+    "timeDay": 406,
+    "timeWeek": 419,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {
       "2024-10-28": 83,
       "2024-10-22": 459,
@@ -708,8 +708,7 @@
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
-      "2023-11-10": 1440,
-      "2023-11-09": 1440
+      "2023-11-10": 1440
     }
   },
   {
@@ -718,16 +717,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.co2panel.com.ico",
     "slug": "co-2-panel-premium",
     "status": "up",
-    "uptime": "1.56%",
+    "uptime": "1.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.56%",
-    "uptimeYear": "4.02%",
-    "time": 1362,
-    "timeDay": 269,
-    "timeWeek": 259,
-    "timeMonth": 1362,
-    "timeYear": 1362,
+    "uptimeMonth": "52.85%",
+    "uptimeYear": "4.29%",
+    "time": 1308,
+    "timeDay": 213,
+    "timeWeek": 240,
+    "timeMonth": 1308,
+    "timeYear": 1308,
     "dailyMinutesDown": {
       "2024-10-28": 82,
       "2024-10-22": 473,
@@ -1077,8 +1076,7 @@
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
-      "2023-11-10": 1440,
-      "2023-11-09": 1440
+      "2023-11-10": 1440
     }
   }
 ]
