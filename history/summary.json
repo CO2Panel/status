@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/co2panel.shop.ico",
     "slug": "co-2-panel-web",
     "status": "down",
-    "uptime": "10.16%",
+    "uptime": "10.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2024-12-08": 101,
+      "2024-12-09": 0,
+      "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -339,8 +340,7 @@
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
-      "2023-12-11": 1440,
-      "2023-12-10": 1440
+      "2023-12-11": 1440
     }
   },
   {
@@ -348,18 +348,19 @@
     "url": "http://www.co2panel.com/control",
     "icon": "https://icons.duckduckgo.com/ip3/www.co2panel.com.ico",
     "slug": "co-2-panel-control",
-    "status": "up",
-    "uptime": "4.49%",
-    "uptimeDay": "93.02%",
+    "status": "down",
+    "uptime": "4.58%",
+    "uptimeDay": "93.01%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "12.48%",
-    "time": 857,
-    "timeDay": 7483,
-    "timeWeek": 2770,
-    "timeMonth": 1057,
-    "timeYear": 857,
+    "uptimeYear": "12.74%",
+    "time": 839,
+    "timeDay": 5685,
+    "timeWeek": 2520,
+    "timeMonth": 1037,
+    "timeYear": 839,
     "dailyMinutesDown": {
+      "2024-12-09": 0,
       "2024-12-08": 101,
       "2024-11-24": 85,
       "2024-10-28": 83,
@@ -679,8 +680,7 @@
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
-      "2023-12-11": 1440,
-      "2023-12-10": 1440
+      "2023-12-11": 1440
     }
   },
   {
@@ -688,18 +688,19 @@
     "url": "http://www.co2panel.com/premium",
     "icon": "https://icons.duckduckgo.com/ip3/www.co2panel.com.ico",
     "slug": "co-2-panel-premium",
-    "status": "up",
-    "uptime": "4.49%",
-    "uptimeDay": "93.02%",
+    "status": "down",
+    "uptime": "4.58%",
+    "uptimeDay": "93.01%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "12.50%",
-    "time": 669,
-    "timeDay": 189,
-    "timeWeek": 217,
-    "timeMonth": 249,
-    "timeYear": 669,
+    "uptimeYear": "12.75%",
+    "time": 651,
+    "timeDay": 182,
+    "timeWeek": 214,
+    "timeMonth": 247,
+    "timeYear": 651,
     "dailyMinutesDown": {
+      "2024-12-09": 0,
       "2024-12-08": 101,
       "2024-10-28": 82,
       "2024-10-22": 473,
@@ -1018,8 +1019,7 @@
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
-      "2023-12-11": 1440,
-      "2023-12-10": 1440
+      "2023-12-11": 1440
     }
   }
 ]
