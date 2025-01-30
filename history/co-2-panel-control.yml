@@ -1,7 +1,7 @@
 url: http://www.co2panel.com/control
-status: down
-code: 404
-responseTime: 20126
-lastUpdated: 2025-01-29T23:16:19.478Z
+status: up
+code: 200
+responseTime: 378
+lastUpdated: 2025-01-30T14:15:55.364Z
 startTime: 2022-02-04T20:29:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
