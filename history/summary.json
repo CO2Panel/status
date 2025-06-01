@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/co2panel.shop.ico",
     "slug": "co-2-panel-web",
     "status": "down",
-    "uptime": "8.70%",
+    "uptime": "8.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1473,
+    "time": 1498,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-31": 67,
+      "2025-06-01": 81,
+      "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -379,8 +380,7 @@
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
-      "2024-06-02": 1440,
-      "2024-06-01": 1440
+      "2024-06-02": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.co2panel.com.ico",
     "slug": "co-2-panel-control",
     "status": "down",
-    "uptime": "6.08%",
+    "uptime": "6.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "20.16%",
-    "time": 12772,
-    "timeDay": 19988,
-    "timeWeek": 19812,
-    "timeMonth": 19832,
-    "timeYear": 12772,
+    "time": 12801,
+    "timeDay": 19602,
+    "timeWeek": 19734,
+    "timeMonth": 19823,
+    "timeYear": 12801,
     "dailyMinutesDown": {
-      "2025-05-31": 67,
+      "2025-06-01": 81,
+      "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -695,8 +696,7 @@
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
-      "2024-06-02": 1440,
-      "2024-06-01": 1440
+      "2024-06-02": 1440
     }
   },
   {
@@ -705,18 +705,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.co2panel.com.ico",
     "slug": "co-2-panel-premium",
     "status": "down",
-    "uptime": "6.08%",
+    "uptime": "6.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "20.17%",
-    "time": 12787,
-    "timeDay": 19765,
+    "time": 12816,
+    "timeDay": 19783,
     "timeWeek": 19778,
     "timeMonth": 19788,
-    "timeYear": 12787,
+    "timeYear": 12816,
     "dailyMinutesDown": {
-      "2025-05-31": 67,
+      "2025-06-01": 81,
+      "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
@@ -1010,8 +1011,7 @@
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
-      "2024-06-02": 1440,
-      "2024-06-01": 1440
+      "2024-06-02": 1440
     }
   }
 ]
