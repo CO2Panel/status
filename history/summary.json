@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/co2panel.shop.ico",
     "slug": "co-2-panel-web",
     "status": "down",
-    "uptime": "7.60%",
+    "uptime": "7.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 77,
+      "2025-11-24": 73,
+      "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -379,8 +380,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   },
   {
@@ -393,14 +393,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.48%",
-    "time": 15788,
-    "timeDay": 19894,
-    "timeWeek": 19810,
-    "timeMonth": 19848,
-    "timeYear": 17252,
+    "uptimeYear": "11.22%",
+    "time": 15797,
+    "timeDay": 19750,
+    "timeWeek": 19815,
+    "timeMonth": 19852,
+    "timeYear": 17349,
     "dailyMinutesDown": {
-      "2025-11-23": 77,
+      "2025-11-24": 73,
+      "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -726,8 +727,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 729,
       "2024-12-09": 98,
-      "2024-12-08": 101,
-      "2024-11-24": 85
+      "2024-12-08": 101
     }
   },
   {
@@ -736,18 +736,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.co2panel.com.ico",
     "slug": "co-2-panel-premium",
     "status": "down",
-    "uptime": "5.31%",
+    "uptime": "5.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.50%",
-    "time": 15788,
-    "timeDay": 19638,
-    "timeWeek": 19759,
+    "uptimeYear": "11.22%",
+    "time": 15797,
+    "timeDay": 19782,
+    "timeWeek": 19757,
     "timeMonth": 19774,
-    "timeYear": 17224,
+    "timeYear": 17276,
     "dailyMinutesDown": {
-      "2025-11-23": 77,
+      "2025-11-24": 73,
+      "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
